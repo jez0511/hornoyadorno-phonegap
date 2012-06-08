@@ -15,7 +15,7 @@
         Horno y Adorno
     </author>
 
-    <access origin="http://m.hornoyadorno.com" subdomains="true" />
+    <access />
 
     <preference name="permissions" value="none"/>
 
