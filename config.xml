@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.example"
+        id        = "com.hornoyadorno"
         versionCode="10" 
         version   = "1.0.0">
 
@@ -12,7 +12,7 @@
     <description></description>
 
     <author href="https://hornoyadorno.com" email="info@hornoyadorno.com">
-        Horno & Adorno
+        Horno y Adorno
     </author>
 
     <access origin="http://hornoyadorno.com" subdomains="true" />
