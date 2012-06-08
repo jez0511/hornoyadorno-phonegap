@@ -15,7 +15,7 @@
         Horno y Adorno
     </author>
 
-    <access />
+    <access origin="*" />
 
     <preference name="permissions" value="none"/>
 
